@@ -2,7 +2,7 @@
 
 Takes in 2 python files and generates a similarity score based on the similarity of their Abstract Syntax Trees (ASTs).
 
-The visualized AST can be  astree.png as well as on the streamlit app.
+The visualized AST can be seen on astree.png as well as on the streamlit app.
 
 Preorder and Inorder traversals of the ASTs are generated and indel distance,hamming distance, levenstein distance are calculated between the traversals to generate the similarity score.
 
