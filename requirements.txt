@@ -1,0 +1,8 @@
+numpy
+networkx
+matplotlib
+scipy
+scikit-learn
+Levenshtein
+
+streamlit
